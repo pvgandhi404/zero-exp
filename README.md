@@ -29,6 +29,7 @@ If you need to install or update any of the dependencies, please see the followi
 - [Yarn Installation](https://yarnpkg.com/getting-started/install)
 - [Install Docker for Windows](https://docs.docker.com/docker-for-windows/install/) / [Install Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
 
+
 ## 2. Extract and install
 
 Extract the contents of the zip file into a folder of your choice.
