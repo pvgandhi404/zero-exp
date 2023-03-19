@@ -1,0 +1,8 @@
+{
+  "$schema": "./schemas/package.schema.json",
+  "name": "dynamodb",
+  "template": "dynamodb",
+  "templateVersion": "0.1.19",
+  "configuration": {},
+  "deployments": []
+}

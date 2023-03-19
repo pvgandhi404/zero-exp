@@ -1,0 +1,33 @@
+{
+  "projectName": "",
+  "packages": [
+    {
+      "packageName": "app-nextjs-bootstrap",
+      "templateReference": {
+        "templateName": "app-nextjs-bootstrap"
+      }
+    },
+    {
+      "packageName": "serverless-api",
+      "templateReference": {
+        "templateName": "serverless-api"
+      }
+    },
+    {
+      "packageName": "server-side-rendering",
+      "templateReference": {
+        "templateName": "server-side-rendering"
+      }
+    },
+    {
+      "packageName": "dynamodb",
+      "templateReference": {
+        "templateName": "dynamodb"
+      }
+    }
+  ],
+  "rootTemplateReference": {
+    "templateName": "yarn-pnp-monorepo"
+  },
+  "createdAt": "2023-03-19T02:53:33.337Z"
+}
